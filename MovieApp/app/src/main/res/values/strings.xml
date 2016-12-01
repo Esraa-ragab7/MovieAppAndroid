@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="trailers">Trailers :</string>
+    <string name="textview">TextView</string>
+    <string name="film">Film</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="favourites">Favourites</string>
+    <string name="reviews">Reviews</string>
+</resources>
